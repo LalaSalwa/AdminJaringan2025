@@ -1,0 +1,22 @@
+services:
+  mongodb:
+    build: .
+    container_name: mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: password
+      MONGO_INITDB_DATABASE: adibasa
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - mongodb_network
+
+volumes:
+  mongodb_data:
+
+networks:
+  mongodb_network:
+    driver: bridge

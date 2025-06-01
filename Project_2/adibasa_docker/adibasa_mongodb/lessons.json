@@ -1,0 +1,1187 @@
+[
+  {
+    "id": "lesson_1",
+    "title": "Dasar 1",
+    "order": 1,
+    "challenges": [
+      {
+        "question": "Makan",
+        "order": 1,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Mangan",
+            "correct": true
+          },
+          {
+            "text": "Ngombe",
+            "correct": false
+          },
+          {
+            "text": "Banyu",
+            "correct": false
+          },
+          {
+            "text": "Sego",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Tino _makan_ tempe",
+        "order": 2,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Mangan",
+            "correct": true
+          },
+          {
+            "text": "Ngombe",
+            "correct": false
+          },
+          {
+            "text": "Banyu",
+            "correct": false
+          },
+          {
+            "text": "Sego",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Minum",
+        "order": 3,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Ngombe",
+            "correct": true
+          },
+          {
+            "text": "Mangan",
+            "correct": false
+          },
+          {
+            "text": "Turu",
+            "correct": false
+          },
+          {
+            "text": "Wedi",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Anak itu _minum_ susu",
+        "order": 4,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Ngombe",
+            "correct": true
+          },
+          {
+            "text": "Mangan",
+            "correct": false
+          },
+          {
+            "text": "Turu",
+            "correct": false
+          },
+          {
+            "text": "Wedi",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Tidur",
+        "order": 5,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Turu",
+            "correct": true
+          },
+          {
+            "text": "Mlaku",
+            "correct": false
+          },
+          {
+            "text": "Ngombe",
+            "correct": false
+          },
+          {
+            "text": "Sega",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Bayi itu _tidur_ di kamar",
+        "order": 6,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Turu",
+            "correct": true
+          },
+          {
+            "text": "Mlaku",
+            "correct": false
+          },
+          {
+            "text": "Ngombe",
+            "correct": false
+          },
+          {
+            "text": "Sega",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Air",
+        "order": 7,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Banyu",
+            "correct": true
+          },
+          {
+            "text": "Sega",
+            "correct": false
+          },
+          {
+            "text": "Oleh-oleh",
+            "correct": false
+          },
+          {
+            "text": "Omah",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Dia mandi dengan _air_ dingin",
+        "order": 8,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Banyu",
+            "correct": true
+          },
+          {
+            "text": "Sega",
+            "correct": false
+          },
+          {
+            "text": "Oleh-oleh",
+            "correct": false
+          },
+          {
+            "text": "Omah",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Rumah",
+        "order": 9,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Omah",
+            "correct": true
+          },
+          {
+            "text": "Kandang",
+            "correct": false
+          },
+          {
+            "text": "Pasar",
+            "correct": false
+          },
+          {
+            "text": "Sawah",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "_Rumah_ itu sangat besar",
+        "order": 10,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Omah",
+            "correct": true
+          },
+          {
+            "text": "Kandang",
+            "correct": false
+          },
+          {
+            "text": "Pasar",
+            "correct": false
+          },
+          {
+            "text": "Sawah",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_2",
+    "title": "Dasar 2",
+    "order": 2,
+    "challenges": [
+      {
+        "question": "Jalan",
+        "order": 1,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Mlaku",
+            "correct": true
+          },
+          {
+            "text": "Mangan",
+            "correct": false
+          },
+          {
+            "text": "Ngguyu",
+            "correct": false
+          },
+          {
+            "text": "Tuku",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Kami _jalan_ ke pasar",
+        "order": 2,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Mlaku",
+            "correct": true
+          },
+          {
+            "text": "Mangan",
+            "correct": false
+          },
+          {
+            "text": "Ngguyu",
+            "correct": false
+          },
+          {
+            "text": "Tuku",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Bicara",
+        "order": 3,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Ngomong",
+            "correct": true
+          },
+          {
+            "text": "Ngrungokake",
+            "correct": false
+          },
+          {
+            "text": "Nulis",
+            "correct": false
+          },
+          {
+            "text": "Maca",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Jangan _bicara_ terlalu keras",
+        "order": 4,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Ngomong",
+            "correct": true
+          },
+          {
+            "text": "Ngrungokake",
+            "correct": false
+          },
+          {
+            "text": "Nulis",
+            "correct": false
+          },
+          {
+            "text": "Maca",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Tawa",
+        "order": 5,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Ngguyu",
+            "correct": true
+          },
+          {
+            "text": "Nangis",
+            "correct": false
+          },
+          {
+            "text": "Mlaku",
+            "correct": false
+          },
+          {
+            "text": "Turu",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Makan",
+        "order": 6,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Mangan",
+            "correct": true
+          },
+          {
+            "text": "Ngombe",
+            "correct": false
+          },
+          {
+            "text": "Banyu",
+            "correct": false
+          },
+          {
+            "text": "Sego",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Dia _minum_ teh pagi ini",
+        "order": 7,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Ngombe",
+            "correct": true
+          },
+          {
+            "text": "Mangan",
+            "correct": false
+          },
+          {
+            "text": "Turu",
+            "correct": false
+          },
+          {
+            "text": "Wedi",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Anak itu _tidur_ di kamar",
+        "order": 8,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Turu",
+            "correct": true
+          },
+          {
+            "text": "Mlaku",
+            "correct": false
+          },
+          {
+            "text": "Ngombe",
+            "correct": false
+          },
+          {
+            "text": "Sega",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "_Air_ ini sangat jernih",
+        "order": 9,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Banyu",
+            "correct": true
+          },
+          {
+            "text": "Sega",
+            "correct": false
+          },
+          {
+            "text": "Oleh-oleh",
+            "correct": false
+          },
+          {
+            "text": "Omah",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Rumah",
+        "order": 10,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Omah",
+            "correct": true
+          },
+          {
+            "text": "Kandang",
+            "correct": false
+          },
+          {
+            "text": "Pasar",
+            "correct": false
+          },
+          {
+            "text": "Sawah",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_3",
+    "title": "Angka",
+    "order": 3,
+    "challenges": [
+      {
+        "question": "Satu",
+        "order": 1,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Siji",
+            "correct": true
+          },
+          {
+            "text": "Loro",
+            "correct": false
+          },
+          {
+            "text": "Telu",
+            "correct": false
+          },
+          {
+            "text": "Papat",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Ada _satu_ buku di tas",
+        "order": 2,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Siji",
+            "correct": true
+          },
+          {
+            "text": "Loro",
+            "correct": false
+          },
+          {
+            "text": "Telu",
+            "correct": false
+          },
+          {
+            "text": "Papat",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Dua",
+        "order": 3,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Loro",
+            "correct": true
+          },
+          {
+            "text": "Siji",
+            "correct": false
+          },
+          {
+            "text": "Lima",
+            "correct": false
+          },
+          {
+            "text": "Enem",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Ibu membeli _dua_ kilogram beras",
+        "order": 4,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Loro",
+            "correct": true
+          },
+          {
+            "text": "Siji",
+            "correct": false
+          },
+          {
+            "text": "Lima",
+            "correct": false
+          },
+          {
+            "text": "Enem",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Tiga",
+        "order": 5,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Telu",
+            "correct": true
+          },
+          {
+            "text": "Papat",
+            "correct": false
+          },
+          {
+            "text": "Limo",
+            "correct": false
+          },
+          {
+            "text": "Enem",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Mlaku",
+        "order": 6,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Jalan",
+            "correct": true
+          },
+          {
+            "text": "Makan",
+            "correct": false
+          },
+          {
+            "text": "Minum",
+            "correct": false
+          },
+          {
+            "text": "Tidur",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Kami _bicara_ tentang sekolah",
+        "order": 7,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Ngomong",
+            "correct": true
+          },
+          {
+            "text": "Ngrungokake",
+            "correct": false
+          },
+          {
+            "text": "Nulis",
+            "correct": false
+          },
+          {
+            "text": "Maca",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Air",
+        "order": 8,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Banyu",
+            "correct": true
+          },
+          {
+            "text": "Sega",
+            "correct": false
+          },
+          {
+            "text": "Oleh-oleh",
+            "correct": false
+          },
+          {
+            "text": "Omah",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Anak itu _minum_ susu",
+        "order": 9,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Ngombe",
+            "correct": true
+          },
+          {
+            "text": "Mangan",
+            "correct": false
+          },
+          {
+            "text": "Turu",
+            "correct": false
+          },
+          {
+            "text": "Wedi",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Rumah",
+        "order": 10,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Omah",
+            "correct": true
+          },
+          {
+            "text": "Kandang",
+            "correct": false
+          },
+          {
+            "text": "Pasar",
+            "correct": false
+          },
+          {
+            "text": "Sawah",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_4",
+    "title": "Warna",
+    "order": 4,
+    "challenges": [
+      {
+        "question": "Merah",
+        "order": 1,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Abang",
+            "correct": true
+          },
+          {
+            "text": "Ijo",
+            "correct": false
+          },
+          {
+            "text": "Kuning",
+            "correct": false
+          },
+          {
+            "text": "Biru",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Baju _merah_ itu bagus",
+        "order": 2,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Abang",
+            "correct": true
+          },
+          {
+            "text": "Ijo",
+            "correct": false
+          },
+          {
+            "text": "Kuning",
+            "correct": false
+          },
+          {
+            "text": "Biru",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Hijau",
+        "order": 3,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Ijo",
+            "correct": true
+          },
+          {
+            "text": "Abang",
+            "correct": false
+          },
+          {
+            "text": "Putih",
+            "correct": false
+          },
+          {
+            "text": "Coklat",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Daun itu berwarna _hijau_",
+        "order": 4,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Ijo",
+            "correct": true
+          },
+          {
+            "text": "Abang",
+            "correct": false
+          },
+          {
+            "text": "Putih",
+            "correct": false
+          },
+          {
+            "text": "Coklat",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Kuning",
+        "order": 5,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Kuning",
+            "correct": true
+          },
+          {
+            "text": "Ijo",
+            "correct": false
+          },
+          {
+            "text": "Biru",
+            "correct": false
+          },
+          {
+            "text": "Abang",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Satu",
+        "order": 6,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Siji",
+            "correct": true
+          },
+          {
+            "text": "Loro",
+            "correct": false
+          },
+          {
+            "text": "Telu",
+            "correct": false
+          },
+          {
+            "text": "Papat",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Dia _jalan_ ke sekolah",
+        "order": 7,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Mlaku",
+            "correct": true
+          },
+          {
+            "text": "Mangan",
+            "correct": false
+          },
+          {
+            "text": "Ngomong",
+            "correct": false
+          },
+          {
+            "text": "Turu",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Tiga",
+        "order": 8,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Telu",
+            "correct": true
+          },
+          {
+            "text": "Papat",
+            "correct": false
+          },
+          {
+            "text": "Limo",
+            "correct": false
+          },
+          {
+            "text": "Enem",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Bicara",
+        "order": 9,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Ngomong",
+            "correct": true
+          },
+          {
+            "text": "Ngrungokake",
+            "correct": false
+          },
+          {
+            "text": "Nulis",
+            "correct": false
+          },
+          {
+            "text": "Maca",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "_Rumah_ itu sangat besar",
+        "order": 10,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Omah",
+            "correct": true
+          },
+          {
+            "text": "Kandang",
+            "correct": false
+          },
+          {
+            "text": "Pasar",
+            "correct": false
+          },
+          {
+            "text": "Sawah",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson_5",
+    "title": "Hewan",
+    "order": 5,
+    "challenges": [
+      {
+        "question": "Ayam",
+        "order": 1,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Pitik",
+            "correct": true
+          },
+          {
+            "text": "Kucing",
+            "correct": false
+          },
+          {
+            "text": "Sapi",
+            "correct": false
+          },
+          {
+            "text": "Kebo",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "_Ayam_ jago berkokok pagi ini",
+        "order": 2,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Pitik",
+            "correct": true
+          },
+          {
+            "text": "Kucing",
+            "correct": false
+          },
+          {
+            "text": "Sapi",
+            "correct": false
+          },
+          {
+            "text": "Kebo",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Kucing",
+        "order": 3,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Kucing",
+            "correct": true
+          },
+          {
+            "text": "Asu",
+            "correct": false
+          },
+          {
+            "text": "Pitik",
+            "correct": false
+          },
+          {
+            "text": "Kethek",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "_Kucing_ itu tidur di kursi",
+        "order": 4,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Kucing",
+            "correct": true
+          },
+          {
+            "text": "Asu",
+            "correct": false
+          },
+          {
+            "text": "Pitik",
+            "correct": false
+          },
+          {
+            "text": "Kethek",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Sapi",
+        "order": 5,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Sapi",
+            "correct": true
+          },
+          {
+            "text": "Kebo",
+            "correct": false
+          },
+          {
+            "text": "Wedhus",
+            "correct": false
+          },
+          {
+            "text": "Pitik",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Merah",
+        "order": 6,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Abang",
+            "correct": true
+          },
+          {
+            "text": "Ijo",
+            "correct": false
+          },
+          {
+            "text": "Kuning",
+            "correct": false
+          },
+          {
+            "text": "Biru",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Ada _dua_ pensil di meja",
+        "order": 7,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Loro",
+            "correct": true
+          },
+          {
+            "text": "Siji",
+            "correct": false
+          },
+          {
+            "text": "Telu",
+            "correct": false
+          },
+          {
+            "text": "Papat",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Hijau",
+        "order": 8,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Ijo",
+            "correct": true
+          },
+          {
+            "text": "Abang",
+            "correct": false
+          },
+          {
+            "text": "Putih",
+            "correct": false
+          },
+          {
+            "text": "Coklat",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Buku itu berwarna _kuning_",
+        "order": 9,
+        "instruction": "Terjemahkan kata yang digarisbawahi:",
+        "options": [
+          {
+            "text": "Kuning",
+            "correct": true
+          },
+          {
+            "text": "Ijo",
+            "correct": false
+          },
+          {
+            "text": "Biru",
+            "correct": false
+          },
+          {
+            "text": "Abang",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Tidur",
+        "order": 10,
+        "instruction": "Terjemahkan kata dibawah ini:",
+        "options": [
+          {
+            "text": "Turu",
+            "correct": true
+          },
+          {
+            "text": "Mlaku",
+            "correct": false
+          },
+          {
+            "text": "Ngombe",
+            "correct": false
+          },
+          {
+            "text": "Sega",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  }
+]
